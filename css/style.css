@@ -1,7 +1,6 @@
 body {
-  background-color: purple;
-  color: orange;
-  -webkit-transform-origin: center;
+  background-color: orange;
+  color: purple;
   transform-origin: center; }
 
 p {
